@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishnavisinha
 - 👀 I’m interested in Software Development,Data Science,Technical Content Writing
-- 🌱 I’m currently learning Relational databases and Data Structures and Algorithm
+- 🌱 I’m currently learning Relational databases ,Data Structures and Algorithm
 - 💞️ I’m looking to Work as Software Developer 
 - 📫 How to reach me -- via email -- vaishnavisinha713@gmail.com
 
